@@ -13,7 +13,7 @@ def read(fname):
 
 setup(
     name='blackbird-diskstats',
-    version='0.1.2',
+    version='0.1.0',
     description=(
         'get disk statistics.'
     ),
